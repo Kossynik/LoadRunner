@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Никита\Documents\VuGen\Scripts\UC04_buyTicket
+-ID:\LoadRunner\include
+-ec:\users\никита\documents\vugen\scripts\uc04_buyticket\\logfile.log
+c:\users\никита\documents\vugen\scripts\uc04_buyticket\\combined_UC04_buyTicket.c
+c:\users\никита\documents\vugen\scripts\uc04_buyticket\\pre_cci.c

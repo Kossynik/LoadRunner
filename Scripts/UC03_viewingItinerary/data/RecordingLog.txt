@@ -1,0 +1,1206 @@
+[API Trapper      (30a8:4458)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (5804:539c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (5804:4878)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5804:4878)] Load Network Traffic Analyzers:
+[Network Analyzer (5804:4878)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (5804:4878)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (5804:4878)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (5804:4878)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (5804:4878)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (5804:4878)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (5804:4878)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5804:1200)] Address lookup for Nikita = 192.168.1.6
+[API Trapper      (39dc:3780)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (5804:4878)] Establish Listener @ 127.0.0.1:1036
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1036   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:3504)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:3504)] SSLAccept(ssl_id = 2403829685376 = 0000022FAF6A1C80) Failed, ctx = 0000022FAF69CA60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:3504)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:5468)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:5468)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:46b0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 52.34.226.44:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:46b0)] SSLAccept(ssl_id = 2403830260080 = 0000022FAF72E170) Failed, ctx = 0000022FAF69CA60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:46b0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4948)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:2ab4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (5804:4948)] SSLAccept(ssl_id = 2403830802000 = 0000022FAF7B2650) Failed, ctx = 0000022FAF7AD2E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:4948)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:2ab4)] SSLAccept(ssl_id = 2403830627264 = 0000022FAF787BC0) Failed, ctx = 0000022FAF73D890, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:2ab4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 54.148.56.186:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804: b80)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804: b80)] SSLAccept(ssl_id = 2403830627264 = 0000022FAF787BC0) Failed, ctx = 0000022FAF7AD2E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804: b80)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 54.148.56.186:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804: ccc)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804: ccc)] SSLAccept(ssl_id = 2403830558048 = 0000022FAF776D60) Failed, ctx = 0000022FAF7AD2E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804: ccc)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:3b78)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:3b78)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[User action                 ] StartTransactionEvent openHomePage [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/"   
+[Network Analyzer (5804:1200)]   (Sid: 13) Client -> Server @ : 478 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 13) Server -> Client : 665 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/header.html"   
+[Network Analyzer (5804:1200)]   (Sid: 13) Client -> Server @ : 515 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 13) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (5804:1200)]   (Sid: 14) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /favicon.ico"   
+[Network Analyzer (5804:1200)]   (Sid: 13) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 13) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid: 15) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid: 15) Server -> Client : 900 bytes  (Service=HTTP)
+[Web Request      (5804:1200)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (5804:1200)]   (Sid: 16) Client -> Server @ : 443 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 16) Server -> Client : 4488 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 14) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5804:1200)]   (Sid: 16) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/home.html"   
+[Network Analyzer (5804:1200)]   (Sid: 14) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 14) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 16) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 44.228.106.27:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 16) Client -> Server @ : 474 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 16) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:64f4)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:64f4)] SSLAccept(ssl_id = 2403830506208 = 0000022FAF76A2E0) Failed, ctx = 0000022FAF7AD2E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:64f4)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 17) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent openHomePage [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent login [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:586c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:586c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1474)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1474)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804: 92c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804: 92c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804: df0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804: df0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:2b54)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:2b54)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (5804:1200)]   (Sid: 23) Client -> Server @ : 788 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 23) Server -> Client : 852 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (5804:1200)]   (Sid: 23) Client -> Server @ : 672 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (5804:1200)]   (Sid: 24) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 24) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 23) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 23) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 23) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      (5804:1200)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 24) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 24) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 23) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 23) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 24) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid: 24) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent login [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 44.238.3.246:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1c78)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:1c78)] SSLAccept(ssl_id = 2403830506208 = 0000022FAF76A2E0) Failed, ctx = 0000022FAF7AD2E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5804:1c78)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /canonical.html"   
+[Network Analyzer (5804:1200)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (5804:1200)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /success.txt?ipv4"   
+[Network Analyzer (5804:1200)]   (Sid:  8) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  8) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent clickItinerary [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (5804:1200)]   (Sid: 28) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 28) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (5804:1200)]   (Sid: 28) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (5804:1200)]   (Sid: 29) Client -> Server @ : 677 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 28) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 28) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 29) Server -> Client : 2892 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 29) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 28) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 30) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (5804:1200)]   (Sid: 28) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 30) Server -> Client : 1130 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 28) Server -> Client : 1040 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 29) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 28) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 31) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent clickItinerary [User action                 ] StartTransactionEvent signOff [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (5804:1200)]   (Sid: 32) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid: 32) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5804:1200)]   (Sid: 32) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:4878)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (5804:4878)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5804:1200)] "GET /WebTours/home.html"   
+[Network Analyzer (5804:1200)]   (Sid: 33) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 33) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid: 32) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent signOff [Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5804:1200)]   (Sid:  2) Client -> Server @ : 1 bytes 

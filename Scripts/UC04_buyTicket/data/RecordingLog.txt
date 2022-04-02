@@ -1,0 +1,1755 @@
+[API Trapper      (417c:53cc)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (23cc:2518)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (23cc:47b0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (23cc:47b0)] Load Network Traffic Analyzers:
+[Network Analyzer (23cc:47b0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (23cc:47b0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (23cc:47b0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (23cc:47b0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (23cc:47b0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (23cc:47b0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (23cc:47b0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (23cc:3d48)] Address lookup for Nikita = 192.168.1.6
+[API Trapper      (3df0:4438)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (23cc:47b0)] Establish Listener @ 127.0.0.1:7632
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:7632   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:62ac)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:1950)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:1950)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 52.88.110.101:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:62ac)] SSLAccept(ssl_id = 1966603268192 = 000001C9E2B07060) Failed, ctx = 000001C9E2A8DB70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:62ac)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:268c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:268c)] SSLAccept(ssl_id = 1966604014928 = 000001C9E2BBD550) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:268c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3f90)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:3f90)] SSLAccept(ssl_id = 1966603821184 = 000001C9E2B8E080) Failed, ctx = 000001C9E2986ED0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:3f90)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 52.35.251.160:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:52c4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:52c4)] SSLAccept(ssl_id = 1966603355296 = 000001C9E2B1C4A0) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:52c4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  9) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent openHomePage [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/"   
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Client -> Server @ : 478 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Server -> Client : 665 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 52.35.251.160:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/header.html"   
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Client -> Server @ : 515 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (23cc:3d48)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (23cc:3d48)]   (Sid: 12) Client -> Server @ : 526 bytes (Service=HTTP)
+[Web Request      (23cc:3d48)] "GET /favicon.ico"   
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Client -> Server @ : 443 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 12) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/home.html"   
+[Network Analyzer (23cc:3d48)]   (Sid: 12) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid: 12) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Server -> Client : 1757 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Client -> Server @ : 474 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:2938)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:2938)] SSLAccept(ssl_id = 1966603355296 = 000001C9E2B1C4A0) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:2938)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent openHomePage [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 14) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent login [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Client -> Server @ : 796 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Server -> Client : 852 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Client -> Server @ : 672 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 17) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 17) Server -> Client : 987 bytes  (Service=HTTP)
+[Web Request      (23cc:3d48)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 52.35.251.160:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: aac)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc: aac)] SSLAccept(ssl_id = 1966603286176 = 000001C9E2B0B6A0) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc: aac)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 19) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent login [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 18) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent clickFlights [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Client -> Server @ : 706 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Server -> Client : 844 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Client -> Server @ : 689 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (23cc:3d48)]   (Sid: 21) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 21) Server -> Client : 4521 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Client -> Server @ : 598 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 21) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid: 21) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (23cc:3d48)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Client -> Server @ : 600 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Server -> Client : 1056 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent clickFlights [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:5954)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:5954)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:4e2c)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:2a5c)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:4e2c)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:2a5c)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:5b40)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:5b40)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:43e0)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:43e0)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:1c98)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:1c98)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3368)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3368)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: b90)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: b90)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 61c)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 61c)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:1034)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (23cc:1034)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 32) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent findFlight [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 44.241.185.165:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3cf8)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:3cf8)] SSLAccept(ssl_id = 1966723450736 = 000001C9E9DA4770) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:3cf8)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (23cc:3d48)]   (Sid: 34) Client -> Server @ : 1051 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 34) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent findFlight [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent selectTicket [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 44.237.168.235:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:5a0c)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:5a0c)] SSLAccept(ssl_id = 1966364852432 = 000001C9D47A80D0) Failed, ctx = 000001C9E2AEB4E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (23cc:5a0c)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (23cc:3d48)]   (Sid: 36) Client -> Server @ : 938 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 36) Server -> Client : 2968 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent selectTicket [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent paymentDetails [Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc: dc8)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:4430)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3474)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:4430)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: dc8)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3474)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:59b0)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:59b0)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 9a8)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:46c8)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:46c8)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 9a8)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:59e8)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:59e8)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:23d0)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:23d0)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:6698)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:6698)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 5f8)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc: 5f8)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:2204)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:2204)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /canonical.html"   
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /success.txt?ipv4"   
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  6) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 46) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (23cc:3d48)]   (Sid: 48) Client -> Server @ : 1105 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 48) Server -> Client : 2858 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (23cc:3d48)]   (Sid: 48) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 48) Server -> Client : 1104 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent paymentDetails [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 48) Connection Terminated (by Server)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent signOff [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Client -> Server @ : 683 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Server -> Client : 1756 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (23cc:3d48)] "GET /WebTours/home.html"   
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:47b0)] Address lookup for Nikita = 192.168.1.6
+[Network Analyzer (23cc:47b0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent signOff [Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (23cc:3d48)]   (Sid: 49) Connection Terminated (by Server)

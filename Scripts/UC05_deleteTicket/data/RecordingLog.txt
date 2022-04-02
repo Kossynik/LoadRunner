@@ -1,0 +1,1543 @@
+[API Trapper      (7bec:7450)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (6888: 520)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (6888:4e10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6888:4e10)] Load Network Traffic Analyzers:
+[Network Analyzer (6888:4e10)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (6888:4e10)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (6888:4e10)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (6888:4e10)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (6888:4e10)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (6888:4e10)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (6888:4e10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6888:460c)] Address lookup for Nikita = 192.168.1.4
+[API Trapper      (6d38:7120)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (6888:4e10)] Establish Listener @ 127.0.0.1:1031
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1031   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 108.156.22.103:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:26ac)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: 88c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:39dc)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 173.194.222.95:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:  20)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 108.156.22.103:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.213.33.47:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 108.156.22.103:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:26ac)] SSLAccept(ssl_id = 1931253802864 = 000001C1A7B26770) Failed, ctx = 000001C1A7B16FC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:26ac)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888: 88c)] SSLAccept(ssl_id = 1931253523360 = 000001C1A7AE23A0) Failed, ctx = 000001C1A7B42600, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888: 88c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:39dc)] SSLAccept(ssl_id = 1931254199344 = 000001C1A7B87430) Failed, ctx = 000001C1A7B87040, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:39dc)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:  20)] SSLAccept(ssl_id = 1931254560480 = 000001C1A7BDF6E0) Failed, ctx = 000001C1A7BDCCC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:  20)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:71e4)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:1358)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Net An. Error    (6888:71e4)] SSLAccept(ssl_id = 1931253227088 = 000001C1A7A99E50) Failed, ctx = 000001C1A7B97260, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:71e4)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:3bb4)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4720)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:24ec)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 52.24.149.180:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:24ec)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:4720)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:1358)] SSLAccept(ssl_id = 1931360968592 = 000001C1AE159F90) Failed, ctx = 000001C1A7B16FC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (6888:1358)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:3bb4)] SSLAccept(ssl_id = 1931254655648 = 000001C1A7BF6AA0) Failed, ctx = 000001C1A7B16FC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:3bb4)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:7148)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:7148)] SSLAccept(ssl_id = 1931361375648 = 000001C1AE1BD5A0) Failed, ctx = 000001C199ACF870, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:7148)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:40ac)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:40ac)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:3e44)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:3e44)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:1a10)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:1a10)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: c78)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: c78)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.213.33.47:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:6554)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:6554)] SSLAccept(ssl_id = 1931361363328 = 000001C1AE1BA580) Failed, ctx = 000001C1A7B97260, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:6554)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 19) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent openHomePage [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/"   
+[Network Analyzer (6888:460c)]   (Sid: 20) Client -> Server @ : 478 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid: 20) Server -> Client : 665 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/header.html"   
+[Network Analyzer (6888:460c)]   (Sid: 20) Client -> Server @ : 515 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 20) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (6888:460c)]   (Sid: 21) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (6888:460c)]   (Sid: 20) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 20) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /favicon.ico"   
+[Network Analyzer (6888:460c)]   (Sid: 22) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid: 22) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (6888:460c)]   (Sid: 23) Client -> Server @ : 443 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 23) Server -> Client : 4488 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 21) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (6888:460c)]   (Sid: 23) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/home.html"   
+[Network Analyzer (6888:460c)]   (Sid: 21) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid: 21) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 23) Server -> Client : 1755 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 23) Client -> Server @ : 474 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 23) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.213.33.47:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:1fb8)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[User action                 ] EndTransactionEvent openHomePage [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:1fb8)] SSLAccept(ssl_id = 1931361351008 = 000001C1AE1B7560) Failed, ctx = 000001C1A7B97260, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:1fb8)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 22) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent login [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (6888:460c)]   (Sid: 25) Client -> Server @ : 795 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 25) Server -> Client : 852 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (6888:460c)]   (Sid: 25) Client -> Server @ : 672 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (6888:460c)]   (Sid: 26) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 25) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 25) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 26) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 26) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid: 25) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 27) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid: 26) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 27) Server -> Client : 987 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 25) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 25) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent login [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 52.33.84.190:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: 860)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888: 860)] SSLAccept(ssl_id = 1931361614752 = 000001C1AE1F7BA0) Failed, ctx = 000001C1A7B97260, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888: 860)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 30) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent clickItinerary [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (6888:460c)]   (Sid: 31) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid: 31) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (6888:460c)]   (Sid: 31) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (6888:460c)]   (Sid: 32) Client -> Server @ : 677 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 32) Server -> Client : 7446 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 31) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 32) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 31) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 32) Server -> Client : 1129 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 32) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 31) Server -> Client : 1040 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 32) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (6888:460c)]   (Sid: 31) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid: 31) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 34) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent clickItinerary [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:7874)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:7874)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:26c4)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:39b4)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:26c4)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:39b4)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:5544)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:5544)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:7170)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:7170)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:468c)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:468c)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4d60)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4d60)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:7a54)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:7a54)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:3998)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:3998)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: 104)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888: 104)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 34.210.39.83:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:5518)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:5518)] SSLAccept(ssl_id = 1931254328192 = 000001C1A7BA6B80) Failed, ctx = 000001C1A7B97260, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (6888:5518)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /canonical.html"   
+[Network Analyzer (6888:460c)]   (Sid:  4) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  4) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /success.txt?ipv4"   
+[Network Analyzer (6888:460c)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 10) Server -> Client : 220 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 45) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent cancelChecked [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (6888:460c)]   (Sid: 46) Client -> Server @ : 1027 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 46) Server -> Client : 6316 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent cancelChecked [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent signOff [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (6888:460c)]   (Sid: 47) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid: 47) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (6888:460c)]   (Sid: 47) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:4e10)] Address lookup for Nikita = 192.168.1.4
+[Network Analyzer (6888:4e10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (6888:460c)] "GET /WebTours/home.html"   
+[Network Analyzer (6888:460c)]   (Sid: 48) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 48) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid: 47) Server -> Client : 1757 bytes  (Service=HTTP)
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent signOff [Network Analyzer (6888:460c)]   (Sid:  2) Client -> Server @ : 1 bytes 
