@@ -29,6 +29,10 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrveHs.701.log" Filter="1" />
+    <FileEntry Name="mdrvFkT.633.log" Filter="1" />
+    <FileEntry Name="mdrvrAF.411.log" Filter="1" />
+    <FileEntry Name="mdrvsaO.575.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

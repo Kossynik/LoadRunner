@@ -15,11 +15,17 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="combined_UC02_searchTicket_withoutBuy.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="125784150440.idx" Filter="1" />
     <FileEntry Name="126130116440.idx" Filter="1" />
+    <FileEntry Name="126819924440.idx" Filter="1" />
     <FileEntry Name="173431515440.idx" Filter="1" />
+    <FileEntry Name="178760276440.idx" Filter="1" />
+    <FileEntry Name="216504177440.idx" Filter="1" />
     <FileEntry Name="217548208440.idx" Filter="1" />
+    <FileEntry Name="264389119440.idx" Filter="1" />
     <FileEntry Name="265617803440.idx" Filter="1" />
     <FileEntry Name="28769450440.idx" Filter="1" />
+    <FileEntry Name="49327948440.idx" Filter="1" />
     <FileEntry Name="86063988440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -28,6 +34,7 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvEcx.399.log" Filter="1" />
     <FileEntry Name="mdrvKTk.801.log" Filter="1" />
     <FileEntry Name="mdrvpW8.959.log" Filter="1" />
     <FileEntry Name="mdrvWKe.379.log" Filter="1" />

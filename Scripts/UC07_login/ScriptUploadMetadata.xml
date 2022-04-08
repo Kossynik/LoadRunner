@@ -23,6 +23,10 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv41S.283.log" Filter="1" />
+    <FileEntry Name="mdrvJ3E.605.log" Filter="1" />
+    <FileEntry Name="mdrvLEG.775.log" Filter="1" />
+    <FileEntry Name="mdrvo34.205.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
@@ -31,6 +35,7 @@
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC07_login.c.pickle" Filter="1" />
     <FileEntry Name="UC07_login.ci" Filter="1" />
+    <FileEntry Name="UC07_login.prm.bak" Filter="1" />
     <FileEntry Name="UC07_login.sdf" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
