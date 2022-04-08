@@ -18,8 +18,8 @@ ActivePage=0
 Count=1
 
 [UIInfo0]
-Title0=vuser_init_Transaction
-Color0=12227859
+Title0=Action_Transaction
+Color0=8559404
 Active0=-1
 Scale0=1
 ScaleState0=User
@@ -30,8 +30,8 @@ Active1=-1
 Scale1=1
 ScaleState1=User
 UITitle1=
-Title2=Action_Transaction
-Color2=8559404
+Title2=vuser_init_Transaction
+Color2=12227859
 Active2=-1
 Scale2=1
 ScaleState2=User
