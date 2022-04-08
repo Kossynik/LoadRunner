@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Никита\Documents\VuGen\Scripts\UC02_searchTicket_withoutBuy
+-ID:\LoadRunner 12.55\include
+-ec:\users\никита\documents\vugen\scripts\uc02_searchticket_withoutbuy\\logfile.log
+c:\users\никита\documents\vugen\scripts\uc02_searchticket_withoutbuy\\combined_UC02_searchTicket_withoutBuy.c
+c:\users\никита\documents\vugen\scripts\uc02_searchticket_withoutbuy\\pre_cci.c

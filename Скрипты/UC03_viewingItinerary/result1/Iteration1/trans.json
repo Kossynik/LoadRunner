@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "openHomePage",
+        "rawStartTime": 1649358249177,
+        "rawEndTime": 1649358249582
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1649358249597,
+        "rawEndTime": 1649358254888
+    },
+    {
+        "transactionName": "clickItinerary",
+        "rawStartTime": 1649358254904,
+        "rawEndTime": 1649358260195
+    },
+    {
+        "transactionName": "signOff",
+        "rawStartTime": 1649358260211,
+        "rawEndTime": 1649358265442
+    },
+    {
+        "transactionName": "UC03_viewingItinerary",
+        "rawStartTime": 1649358249162,
+        "rawEndTime": 1649358265457
+    }
+]

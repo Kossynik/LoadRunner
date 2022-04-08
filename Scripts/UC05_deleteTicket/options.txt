@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Никита\Documents\VuGen\Scripts\UC05_deleteTicket
--ID:\LoadRunner\include
--ec:\users\никита\documents\vugen\scripts\uc05_deleteticket\\logfile.log
-c:\users\никита\documents\vugen\scripts\uc05_deleteticket\\combined_UC05_deleteTicket.c
-c:\users\никита\documents\vugen\scripts\uc05_deleteticket\\pre_cci.c

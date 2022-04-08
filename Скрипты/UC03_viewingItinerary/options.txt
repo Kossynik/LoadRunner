@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Никита\Documents\VuGen\Scripts\UC03_viewingItinerary
+-ID:\LoadRunner 12.55\include
+-ec:\users\никита\documents\vugen\scripts\uc03_viewingitinerary\\logfile.log
+c:\users\никита\documents\vugen\scripts\uc03_viewingitinerary\\combined_UC03_viewingItinerary.c
+c:\users\никита\documents\vugen\scripts\uc03_viewingitinerary\\pre_cci.c

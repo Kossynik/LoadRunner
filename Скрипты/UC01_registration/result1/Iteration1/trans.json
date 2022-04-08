@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "openHomePage",
+        "rawStartTime": 1649357914476,
+        "rawEndTime": 1649357914881
+    },
+    {
+        "transactionName": "signUp",
+        "rawStartTime": 1649357914896,
+        "rawEndTime": 1649357920113
+    },
+    {
+        "transactionName": "profileDataEntry",
+        "rawStartTime": 1649357920128,
+        "rawEndTime": 1649357925285
+    },
+    {
+        "transactionName": "confirmSignUp",
+        "rawStartTime": 1649357925300,
+        "rawEndTime": 1649357930562
+    },
+    {
+        "transactionName": "signOff",
+        "rawStartTime": 1649357930577,
+        "rawEndTime": 1649357935839
+    },
+    {
+        "transactionName": "UC01_registration",
+        "rawStartTime": 1649357914461,
+        "rawEndTime": 1649357935854
+    }
+]

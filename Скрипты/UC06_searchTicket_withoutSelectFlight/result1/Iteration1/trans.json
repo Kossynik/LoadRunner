@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "openHomePage",
+        "rawStartTime": 1649361335149,
+        "rawEndTime": 1649361335554
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1649361335569,
+        "rawEndTime": 1649361335824
+    },
+    {
+        "transactionName": "clickFlights",
+        "rawStartTime": 1649361335839,
+        "rawEndTime": 1649361336109
+    },
+    {
+        "transactionName": "findFlight",
+        "rawStartTime": 1649361336124,
+        "rawEndTime": 1649361336289
+    },
+    {
+        "transactionName": "UC06_searchTicket_withoutSelectFlight",
+        "rawStartTime": 1649361335135,
+        "rawEndTime": 1649361336304
+    }
+]

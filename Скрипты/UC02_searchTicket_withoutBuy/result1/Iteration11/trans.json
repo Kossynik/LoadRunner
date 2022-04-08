@@ -1,0 +1,37 @@
+[
+    {
+        "transactionName": "openHomePage",
+        "rawStartTime": 1649369200372,
+        "rawEndTime": 1649369200656
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1649369200672,
+        "rawEndTime": 1649369200956
+    },
+    {
+        "transactionName": "clickFlights",
+        "rawStartTime": 1649369200971,
+        "rawEndTime": 1649369201271
+    },
+    {
+        "transactionName": "findFlight",
+        "rawStartTime": 1649369201286,
+        "rawEndTime": 1649369201511
+    },
+    {
+        "transactionName": "selectTicket",
+        "rawStartTime": 1649369201527,
+        "rawEndTime": 1649369201736
+    },
+    {
+        "transactionName": "signOff",
+        "rawStartTime": 1649369201751,
+        "rawEndTime": 1649369202006
+    },
+    {
+        "transactionName": "UC02_searchTicket_withoutBuy",
+        "rawStartTime": 1649369200357,
+        "rawEndTime": 1649369202021
+    }
+]

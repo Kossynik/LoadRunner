@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Никита\Documents\VuGen\Scripts\UC07_login
+-ID:\LoadRunner 12.55\include
+-ec:\users\никита\documents\vugen\scripts\uc07_login\\logfile.log
+c:\users\никита\documents\vugen\scripts\uc07_login\\combined_UC07_login.c
+c:\users\никита\documents\vugen\scripts\uc07_login\\pre_cci.c

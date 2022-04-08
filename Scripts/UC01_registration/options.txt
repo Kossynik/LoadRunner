@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Никита\Documents\VuGen\Scripts\UC01_registration
--ID:\LoadRunner\include
--ec:\users\никита\documents\vugen\scripts\uc01_registration\\logfile.log
-c:\users\никита\documents\vugen\scripts\uc01_registration\\combined_UC01_registration.c
-c:\users\никита\documents\vugen\scripts\uc01_registration\\pre_cci.c

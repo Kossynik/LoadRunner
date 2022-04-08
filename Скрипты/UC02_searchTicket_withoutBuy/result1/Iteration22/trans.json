@@ -1,0 +1,17 @@
+[
+    {
+        "transactionName": "openHomePage",
+        "rawStartTime": 1649369209502,
+        "rawEndTime": 1649369209816
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1649369209831,
+        "rawEndTime": 1649369210100
+    },
+    {
+        "transactionName": "UC02_searchTicket_withoutBuy",
+        "rawStartTime": 1649369209487,
+        "rawEndTime": 1649369210100
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "stepId": "STEP39",
+        "stepName": "Url: WebTours",
+        "infFile": "t1.inf",
+        "time": 1649369204809
+    },
+    {
+        "stepId": "STEP40",
+        "stepName": "Submit Data: login.pl",
+        "infFile": "t2.inf",
+        "time": 1649369205126
+    }
+]

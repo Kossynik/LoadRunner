@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Никита\Documents\VuGen\Scripts\UC06_searchTicket_withoutSelectFlight
+-ID:\LoadRunner 12.55\include
+-ec:\users\никита\documents\vugen\scripts\uc06_searchticket_withoutselectflight\\logfile.log
+c:\users\никита\documents\vugen\scripts\uc06_searchticket_withoutselectflight\\combined_UC06_searchTicket_withoutSelectFlight.c
+c:\users\никита\documents\vugen\scripts\uc06_searchticket_withoutselectflight\\pre_cci.c
