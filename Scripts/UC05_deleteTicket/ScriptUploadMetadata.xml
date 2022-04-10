@@ -15,6 +15,7 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="combined_UC05_deleteTicket.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="450810440.idx" Filter="1" />
     <FileEntry Name="94780514440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -25,8 +26,12 @@
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrvb1V.197.log" Filter="1" />
     <FileEntry Name="mdrvE0X.357.log" Filter="1" />
+    <FileEntry Name="mdrveni.221.log" Filter="1" />
+    <FileEntry Name="mdrvG3A.607.log" Filter="1" />
+    <FileEntry Name="mdrvllJ.837.log" Filter="1" />
     <FileEntry Name="mdrvp5B.389.log" Filter="1" />
     <FileEntry Name="mdrvren.473.log" Filter="1" />
+    <FileEntry Name="mdrvuOR.395.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

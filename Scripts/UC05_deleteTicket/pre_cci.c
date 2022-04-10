@@ -1,4 +1,4 @@
-# 1 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c"
+# 1 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c"
 # 1 "D:\\LoadRunner 12.55\\include/lrun.h" 1
  
  
@@ -962,7 +962,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 1 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 
 # 1 "D:\\LoadRunner 12.55\\include/SharedParameter.h" 1
 
@@ -1126,7 +1126,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 2 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 
 # 1 "globals.h" 1
 
@@ -2661,14 +2661,14 @@ signOff(){
  
 
 
-# 3 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 3 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 4 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2760,8 +2760,6 @@ Action()
 
 	lr_think_time(5);	
 				
-	if (atoi(lr_eval_string("{deleteNumber}")) == 1){
-				
 	web_reg_find("Fail=Found",
 		"Text={flightID_1}",
 		"LAST");
@@ -2775,59 +2773,6 @@ Action()
 		"URL=http://localhost:1080/cgi-bin/itinerary.pl",
 		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", "ENDITEM",
 		"LAST");
-
-			} 
-	
-	else if (atoi(lr_eval_string("{deleteNumber}")) == 2){
-				
-	web_reg_find("Fail=Found",
-		"Text={flightID_1}",
-		"LAST");
-		
-	web_reg_find("Fail=Found",
-		"Text={flightID_2}",
-		"LAST");
-		
-	web_submit_form("itinerary.pl",
-		"ITEMDATA",
-		"Name=1", "Value=on", "ENDITEM",
-		"Name=2", "Value=on", "ENDITEM",
-		"Name=removeFlights.x", "Value=33", "ENDITEM",
-		"Name=removeFlights.y", "Value=4", "ENDITEM",
-		"EXTRARES",
-		"URL=http://localhost:1080/cgi-bin/itinerary.pl",
-		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", "ENDITEM",
-		"LAST");
-			
-			} 
-	
-	else if (atoi(lr_eval_string("{deleteNumber}")) == 3){
-				
-	web_reg_find("Fail=Found",
-		"Text={flightID_1}",
-		"LAST");
-		
-	web_reg_find("Fail=Found",
-		"Text={flightID_2}",
-		"LAST");
-		
-	web_reg_find("Fail=Found",
-		"Text={flightID_3}",
-		"LAST");
-		
-	web_submit_form("itinerary.pl",
-		"ITEMDATA",
-		"Name=1", "Value=on", "ENDITEM",
-		"Name=2", "Value=on", "ENDITEM",
-		"Name=3", "Value=on", "ENDITEM",
-		"Name=removeFlights.x", "Value=33", "ENDITEM",
-		"Name=removeFlights.y", "Value=4", "ENDITEM",
-		"EXTRARES",
-		"URL=http://localhost:1080/cgi-bin/itinerary.pl",
-		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", "ENDITEM",
-		"LAST");
-		
-			}
 
 	lr_end_transaction("cancelChecked",2);
 	
@@ -2857,12 +2802,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 5 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\\355\350\352\350\362\340\\documents\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
+# 6 "d:\\vugen\\scripts\\uc05_deleteticket\\\\combined_UC05_deleteTicket.c" 2
 

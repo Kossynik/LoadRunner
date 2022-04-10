@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "openHomePage",
-        "rawStartTime": 1649358359094,
-        "rawEndTime": 1649358359468
+        "rawStartTime": 1649535934955,
+        "rawEndTime": 1649535935480
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1649358359483,
-        "rawEndTime": 1649358359753
+        "rawStartTime": 1649535935495,
+        "rawEndTime": 1649535940751
     },
     {
         "transactionName": "clickItinerary",
-        "rawStartTime": 1649358359768,
-        "rawEndTime": 1649358360068
+        "rawStartTime": 1649535940767,
+        "rawEndTime": 1649535946145
     },
     {
         "transactionName": "cancelChecked",
-        "rawStartTime": 1649358360083,
-        "rawEndTime": 1649358360428
+        "rawStartTime": 1649535946160,
+        "rawEndTime": 1649535951656
     },
     {
         "transactionName": "signOff",
-        "rawStartTime": 1649358360443,
-        "rawEndTime": 1649358360682
+        "rawStartTime": 1649535951671,
+        "rawEndTime": 1649535956928
     },
     {
         "transactionName": "UC05_deleteTicket",
-        "rawStartTime": 1649358359079,
-        "rawEndTime": 1649358360698
+        "rawStartTime": 1649535934940,
+        "rawEndTime": 1649535956943
     }
 ]

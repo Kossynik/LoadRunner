@@ -1,11 +1,3 @@
-[parameter:deleteNumber]
-Format="%lu"
-GenerateNewVal="EachOccurrence"
-MaxValue="3"
-MinValue="1"
-OriginalValue=""
-ParamName="deleteNumber"
-Type="Random"
 [parameter:password]
 ColumnName="password"
 Delimiter=","
