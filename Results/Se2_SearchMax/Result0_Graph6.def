@@ -18,6 +18,12 @@ ActivePage=0
 Count=1
 
 [UIInfo0]
+Title0=Fail
+Color0=4276695
+Active0=0
+Scale0=1
+ScaleState0=User
+UITitle0=
 
 [MoreUiInfos]
 ShowPieMarks=1
@@ -29,7 +35,7 @@ ActionClearFilterEnabled=0
 ChartFile=D:\VuGen\Results\Se2_SearchMax\Result0_Graph6.cfg
 View3D=0
 IntLegendVisible=0
-Chart3dPercent=10
+Chart3dPercent=1
 Pen_Style=0
 Pen_SmallDots=0
 Pen_Visible=1

@@ -18,6 +18,12 @@ ActivePage=0
 Count=2
 
 [UIInfo0]
+Title0=Pass
+Color0=255
+Active0=-1
+Scale0=1
+ScaleState0=User
+UITitle0=
 
 [UIInfo1]
 
@@ -31,7 +37,7 @@ ActionClearFilterEnabled=0
 ChartFile=D:\VuGen\Results\Se3_ConfirmMax\Result0_Graph13.cfg
 View3D=0
 IntLegendVisible=0
-Chart3dPercent=10
+Chart3dPercent=1
 Pen_Style=0
 Pen_SmallDots=0
 Pen_Visible=1
